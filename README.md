@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... ann.michelle.gonzales112@gmail.com
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I love to write code AND lyrics. Producer of dark electronic music.
--->
