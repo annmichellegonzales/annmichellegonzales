@@ -1,4 +1,4 @@
-### Welcome and thanks for stopping by >^.^<
+### Welcome and thanks for stopping by!
 
 - 🔭 I’m currently working on ... Capstone application ideas
 - 🌱 I’m currently learning ... Spring Boot
