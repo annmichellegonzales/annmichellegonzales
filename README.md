@@ -1,7 +1,5 @@
 ### Welcome and thanks for stopping by >^.^<
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Capstone application ideas
 - 🌱 I’m currently learning ... Spring Boot
 - 👯 I’m looking to collaborate on ... anything
